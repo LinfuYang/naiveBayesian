@@ -1,0 +1,14 @@
+A	high	no	fair	0
+A	high	no	excellent	0
+B	high	no	fair	1
+C	medium	no	fair	1
+C	low	yes	fair	1
+C	low	yes	excellent	0
+B	low	yes	excellent	1
+A	medium	no	fair	0
+A	low	yes	fair	1
+C	medium	yes	fair	1
+A	medium	yes	excellent	1
+B	medium	no	excellent	1
+B	high	yes	fair	1
+C	medium	no	excellent	0
